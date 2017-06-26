@@ -1,4 +1,4 @@
-# _{Application Name}_
+# How to use the Fun-Facts Webpage
 
 #### _{Brief description of application}, {Date of current version}_
 
